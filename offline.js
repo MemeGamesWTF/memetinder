@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1739880967,
+	"version": 1739881946,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -45,6 +45,10 @@
 		"media/tap.ogg",
 		"media/swipe.m4a",
 		"media/swipe.ogg",
+		"media/result (1).m4a",
+		"media/result (1).ogg",
+		"media/bg (3).m4a",
+		"media/bg (3).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
