@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1739941173,
+	"version": 1739942076,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -41,6 +41,7 @@
 		"images/card-sheet27.png",
 		"images/card-sheet28.png",
 		"images/card-sheet29.png",
+		"images/confetti-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
 		"media/swipe.m4a",
